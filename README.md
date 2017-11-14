@@ -56,7 +56,7 @@ Este es el funcionamiento de la aplicación.
                 <td> </td>
             </tr>
             <tr>
-                <td><img src="/img/videoFuncionalidad.mp4" width="300"></td>
+                <td><img src="/img/vistaPrevia.gif" width="300"></td>
             </tr>
             <tr>
                 <td> </td>
