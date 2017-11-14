@@ -27,7 +27,7 @@ Wireframes
 ---
 Puedes visualizar los Wireframes de este proyecto.
 
-https://ninjamock.com
+https://ninjamock.com/s/24XJGWx
 
 Compatibilidad
 ---
